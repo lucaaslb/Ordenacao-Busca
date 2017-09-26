@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506468817 source:/home/lucaaslb/Documentos/code/C/Ordenacao_Busca/main.c
+	<stdio.h>
+	<stdlib.h>
+
