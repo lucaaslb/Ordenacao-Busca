@@ -1,5 +1,13 @@
 # depslib dependency file v1.0
-1506468817 source:/home/lucaaslb/Documentos/code/C/Ordenacao_Busca/main.c
+1506471432 source:/home/lucaaslb/Documentos/code/C/Ordenacao_Busca/main.c
 	<stdio.h>
 	<stdlib.h>
+	"header.h"
+
+1506471858 /home/lucaaslb/Documentos/code/C/Ordenacao_Busca/header.h
+
+1506471945 source:/home/lucaaslb/Documentos/code/C/Ordenacao_Busca/functions.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
 
